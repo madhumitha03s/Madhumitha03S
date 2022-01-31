@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-🏆 **My Github Stats:**
+## 🏆 My Github Stats:
 
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Madhumitha03S&show_icons=true&theme=nightowl&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
