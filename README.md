@@ -46,4 +46,4 @@ You can click the Preview link to take a look at your changes.
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhumitha03S&theme=tokyonight&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
  </div>
 
-https://github-readme-stats.vercel.app/api/pin/?username=Madhumitha03S&repo=github-readme-stats
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Madhumitha03S&repo=github-readme-stats?&theme=jolly&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
