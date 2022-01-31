@@ -8,3 +8,8 @@
 Madhumitha03S/Madhumitha03S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<!--${your.username}.${your.repo.id}-->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green) 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Madhumitha03S&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
