@@ -36,6 +36,6 @@ You can click the Preview link to take a look at your changes.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Madhumitha03S&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Madhumitha03S&show_icons=true&theme=nightowl&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhumitha03S&theme=tokyonight&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+ <img height="180em" float="left"  margin="10px" src="https://github-readme-stats.vercel.app/api?username=Madhumitha03S&show_icons=true&theme=nightowl&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+ <img float="right"  margin="10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhumitha03S&theme=tokyonight&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
  </div>
