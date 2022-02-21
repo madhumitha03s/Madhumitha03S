@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Madhumitha S
 - 👀 I’m interested in Web Designing
-- 🌱 I’m currently learning Front-End Languages and UI/UX Design
+- 🌱 I’m currently learning Front-End Languages 
 - 💞️ I’m looking to collaborate on Web Development Projects
+- 💹 I'm also working on my Marketing and Management skills
 - 📫 How to reach me ... https://www.linkedin.com/in/madhumitha-s-2664171b8/
 - 🦋 Fun Fact: I love Sketching and Content Writing
 <!---
