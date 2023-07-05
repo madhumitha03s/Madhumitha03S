@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java and UI/UX Design
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 💹 I'm also working on my Marketing and Management skills
-- 📫 How to reach me ... https://www.linkedin.com/in/madhumitha-s-2664171b8/
+- 📫 How to reach me ... https://www.linkedin.com/in/madhumitha03s/
 - 🦋 Fun Fact: I love Sketching and Content Writing
 <!---
 Madhumitha03S/Madhumitha03S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
