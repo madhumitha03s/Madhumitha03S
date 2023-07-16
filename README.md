@@ -33,7 +33,6 @@ You can click the Preview link to take a look at your changes.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [T&lpar;h&rpar;reading my way into your feed](https://medium.com/@madhus0325/t-h-reading-my-way-into-your-feed-2f9932bb89b5?source=rss-a3c66c32a4c1------2)
 - [JOB READINESS ARTICLE AND POSTS](https://medium.com/@madhus0325/job-readiness-article-and-posts-c1a6f2d127ea?source=rss-a3c66c32a4c1------2)
 - [Recruitment Article and Posts](https://medium.com/@madhus0325/recruitment-article-and-posts-6f51d269d051?source=rss-a3c66c32a4c1------2)
 - [CONTENT WRITING: SMALL ARTICLES](https://medium.com/@madhus0325/content-writing-small-articles-6008f52c9bb2?source=rss-a3c66c32a4c1------2)
